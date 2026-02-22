@@ -15,9 +15,10 @@ export default function Counter() {
     }
     
     const playerStyle = {
-        border: '2px solid yellow',
-        padding: '50px',
-        textColor: 'white'
+        border: '2px solid gold',
+        margin: '10px',
+        padding: '10px',
+        borderRadius:'20px'
 
     }
 
